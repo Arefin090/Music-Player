@@ -1,0 +1,57 @@
+4
+Bollywood
+2020
+Shahrukh Khan
+images/shahrukh.jpg
+6
+Om Shanti Om
+musics/om_shanti.mp3
+Kuch Kuch Hota Hai
+musics/kuchkuch.mp3
+Kabhi Khushi Kabhi Gham
+musics/kabhi_khushi_kabhi_gham.mp3
+Dilwale
+musics/dilwale.mp3
+Dilwale Dulhania
+musics/dilwale_dulhania.mp3
+Ye Ladka Hai Allah
+musics/ye_ladka.mp3
+Witness
+1976
+Katy Perry
+images/kety_perry.jpg
+4
+Lose Control
+musics/roulette.mp3
+Illusion
+musics/mind_maze.mp3
+Decending
+musics/tsunami.mp3
+Miss you!
+musics/miss_you_more.mp3
+Soul
+2018
+Olivia Rodrigo
+images/olivia.jpg
+5
+Deja Vu
+musics/dejavu.mp3
+Drivers License
+musics/drivers_license.mp3
+One Step Forward
+musics/one_step_forward.mp3
+Good 4 U
+musics/good4u.mp3
+Happier
+musics/happier.mp3
+Harry the best
+2016
+Harry Styles
+images/harry.jpg
+3
+Thank you 'Ms Jenny ^_^'
+musics/rock_and_roll.mp3
+Watermelon Sugar High
+musics/watermelonsugar.mp3
+As It Was
+musics/as_it_was.mp3
